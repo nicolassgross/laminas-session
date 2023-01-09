@@ -1,5 +1,7 @@
 <?php 
 
+include_once "vendor/autoload.php";
+
 use Laminas\Session\Container;
 use Laminas\Session\SessionManager;
 
